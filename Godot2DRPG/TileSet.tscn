@@ -1,0 +1,324 @@
+[gd_scene load_steps=65 format=2]
+
+[ext_resource path="res://Sprites/Tiles/rpgTile000.png" type="Texture" id=1]
+[ext_resource path="res://Sprites/Tiles/rpgTile001.png" type="Texture" id=2]
+[ext_resource path="res://Sprites/Tiles/rpgTile002.png" type="Texture" id=3]
+[ext_resource path="res://Sprites/Tiles/rpgTile004.png" type="Texture" id=4]
+[ext_resource path="res://Sprites/Tiles/rpgTile005.png" type="Texture" id=5]
+[ext_resource path="res://Sprites/Tiles/rpgTile003.png" type="Texture" id=6]
+[ext_resource path="res://Sprites/Tiles/rpgTile013.png" type="Texture" id=7]
+[ext_resource path="res://Sprites/Tiles/rpgTile018.png" type="Texture" id=8]
+[ext_resource path="res://Sprites/Tiles/rpgTile019.png" type="Texture" id=9]
+[ext_resource path="res://Sprites/Tiles/rpgTile030.png" type="Texture" id=10]
+[ext_resource path="res://Sprites/Tiles/rpgTile007.png" type="Texture" id=11]
+[ext_resource path="res://Sprites/Tiles/rpgTile026.png" type="Texture" id=12]
+[ext_resource path="res://Sprites/Tiles/rpgTile027.png" type="Texture" id=13]
+[ext_resource path="res://Sprites/Tiles/rpgTile032.png" type="Texture" id=14]
+[ext_resource path="res://Sprites/Tiles/rpgTile008.png" type="Texture" id=15]
+[ext_resource path="res://Sprites/Tiles/rpgTile028.png" type="Texture" id=16]
+[ext_resource path="res://Sprites/Tiles/rpgTile029.png" type="Texture" id=17]
+[ext_resource path="res://Sprites/Tiles/rpgTile024.png" type="Texture" id=18]
+[ext_resource path="res://Sprites/Tiles/rpgTile023.png" type="Texture" id=19]
+[ext_resource path="res://Sprites/Tiles/rpgTile011.png" type="Texture" id=20]
+[ext_resource path="res://Sprites/Tiles/rpgTile021.png" type="Texture" id=21]
+[ext_resource path="res://Sprites/Tiles/rpgTile025.png" type="Texture" id=22]
+[ext_resource path="res://Sprites/Tiles/rpgTile036.png" type="Texture" id=23]
+[ext_resource path="res://Sprites/Tiles/rpgTile009.png" type="Texture" id=24]
+[ext_resource path="res://Sprites/Tiles/rpgTile031.png" type="Texture" id=25]
+[ext_resource path="res://Sprites/Tiles/rpgTile037.png" type="Texture" id=26]
+[ext_resource path="res://Sprites/Tiles/rpgTile006.png" type="Texture" id=27]
+[ext_resource path="res://Sprites/Tiles/rpgTile010.png" type="Texture" id=28]
+[ext_resource path="res://Sprites/Tiles/rpgTile020.png" type="Texture" id=29]
+[ext_resource path="res://Sprites/Tiles/rpgTile014.png" type="Texture" id=30]
+[ext_resource path="res://Sprites/Tiles/rpgTile012.png" type="Texture" id=31]
+[ext_resource path="res://Sprites/Tiles/rpgTile022.png" type="Texture" id=32]
+[ext_resource path="res://Sprites/Tiles/rpgTile042.png" type="Texture" id=33]
+[ext_resource path="res://Sprites/Tiles/rpgTile041.png" type="Texture" id=34]
+[ext_resource path="res://Sprites/Tiles/rpgTile155.png" type="Texture" id=35]
+[ext_resource path="res://Sprites/Tiles/rpgTile043.png" type="Texture" id=36]
+[ext_resource path="res://Sprites/Tiles/rpgTile044.png" type="Texture" id=37]
+[ext_resource path="res://Sprites/Tiles/rpgTile160.png" type="Texture" id=38]
+[ext_resource path="res://Sprites/Tiles/rpgTile157.png" type="Texture" id=39]
+[ext_resource path="res://Sprites/Tiles/rpgTile040.png" type="Texture" id=40]
+[ext_resource path="res://Sprites/Tiles/rpgTile175.png" type="Texture" id=41]
+[ext_resource path="res://Sprites/Tiles/rpgTile177.png" type="Texture" id=42]
+[ext_resource path="res://Sprites/Tiles/rpgTile164.png" type="Texture" id=43]
+[ext_resource path="res://Sprites/Tiles/rpgTile176.png" type="Texture" id=44]
+[ext_resource path="res://Sprites/Tiles/rpgTile038.png" type="Texture" id=45]
+[ext_resource path="res://Sprites/Tiles/rpgTile156.png" type="Texture" id=46]
+[ext_resource path="res://Sprites/Tiles/rpgTile045.png" type="Texture" id=47]
+[ext_resource path="res://Sprites/Tiles/rpgTile158.png" type="Texture" id=48]
+[ext_resource path="res://Sprites/Tiles/rpgTile046.png" type="Texture" id=49]
+[ext_resource path="res://Sprites/Tiles/rpgTile039.png" type="Texture" id=50]
+[ext_resource path="res://Sprites/Tiles/rpgTile159.png" type="Texture" id=51]
+[ext_resource path="res://Sprites/Tiles/rpgTile178.png" type="Texture" id=52]
+[ext_resource path="res://Sprites/Tiles/rpgTile163.png" type="Texture" id=53]
+[ext_resource path="res://Sprites/Tiles/rpgTile216.png" type="Texture" id=54]
+[ext_resource path="res://Sprites/Tiles/rpgTile179.png" type="Texture" id=55]
+[ext_resource path="res://Sprites/Tiles/rpgTile196.png" type="Texture" id=56]
+[ext_resource path="res://Sprites/Tiles/rpgTile200.png" type="Texture" id=57]
+[ext_resource path="res://Sprites/Tiles/rpgTile203.png" type="Texture" id=58]
+[ext_resource path="res://Sprites/Tiles/rpgTile180.png" type="Texture" id=59]
+[ext_resource path="res://Sprites/Tiles/rpgTile195.png" type="Texture" id=60]
+[ext_resource path="res://Sprites/Tiles/rpgTile199.png" type="Texture" id=61]
+[ext_resource path="res://Sprites/Tiles/rpgTile197.png" type="Texture" id=62]
+[ext_resource path="res://Sprites/Tiles/rpgTile198.png" type="Texture" id=63]
+[ext_resource path="res://Sprites/Tiles/rpgTile184.png" type="Texture" id=64]
+
+[node name="TileSet" type="Node2D"]
+
+[node name="rpgTile000" type="Sprite" parent="."]
+position = Vector2( 32, 32 )
+texture = ExtResource( 1 )
+
+[node name="rpgTile001" type="Sprite" parent="."]
+position = Vector2( 96, 32 )
+texture = ExtResource( 2 )
+
+[node name="rpgTile002" type="Sprite" parent="."]
+position = Vector2( 160, 32 )
+texture = ExtResource( 3 )
+
+[node name="rpgTile003" type="Sprite" parent="."]
+position = Vector2( 224, 32 )
+texture = ExtResource( 6 )
+
+[node name="rpgTile004" type="Sprite" parent="."]
+position = Vector2( 288, 32 )
+texture = ExtResource( 4 )
+
+[node name="rpgTile005" type="Sprite" parent="."]
+position = Vector2( 352, 32 )
+texture = ExtResource( 5 )
+
+[node name="rpgTile006" type="Sprite" parent="."]
+position = Vector2( 416, 32 )
+texture = ExtResource( 27 )
+
+[node name="rpgTile007" type="Sprite" parent="."]
+position = Vector2( 480, 32 )
+texture = ExtResource( 11 )
+
+[node name="rpgTile008" type="Sprite" parent="."]
+position = Vector2( 544, 32 )
+texture = ExtResource( 15 )
+
+[node name="rpgTile009" type="Sprite" parent="."]
+position = Vector2( 608, 32 )
+texture = ExtResource( 24 )
+
+[node name="rpgTile010" type="Sprite" parent="."]
+position = Vector2( 672, 32 )
+texture = ExtResource( 28 )
+
+[node name="rpgTile011" type="Sprite" parent="."]
+position = Vector2( 736, 32 )
+texture = ExtResource( 20 )
+
+[node name="rpgTile012" type="Sprite" parent="."]
+position = Vector2( 800, 32 )
+texture = ExtResource( 31 )
+
+[node name="rpgTile013" type="Sprite" parent="."]
+position = Vector2( 864, 32 )
+texture = ExtResource( 7 )
+
+[node name="rpgTile014" type="Sprite" parent="."]
+position = Vector2( 928, 32 )
+texture = ExtResource( 30 )
+
+[node name="rpgTile018" type="Sprite" parent="."]
+position = Vector2( 32, 96 )
+texture = ExtResource( 8 )
+
+[node name="rpgTile019" type="Sprite" parent="."]
+position = Vector2( 96, 96 )
+texture = ExtResource( 9 )
+
+[node name="rpgTile020" type="Sprite" parent="."]
+position = Vector2( 160, 96 )
+texture = ExtResource( 29 )
+
+[node name="rpgTile021" type="Sprite" parent="."]
+position = Vector2( 224, 96 )
+texture = ExtResource( 21 )
+
+[node name="rpgTile022" type="Sprite" parent="."]
+position = Vector2( 288, 96 )
+texture = ExtResource( 32 )
+
+[node name="rpgTile023" type="Sprite" parent="."]
+position = Vector2( 352, 96 )
+texture = ExtResource( 19 )
+
+[node name="rpgTile024" type="Sprite" parent="."]
+position = Vector2( 416, 96 )
+texture = ExtResource( 18 )
+
+[node name="rpgTile025" type="Sprite" parent="."]
+position = Vector2( 480, 96 )
+texture = ExtResource( 22 )
+
+[node name="rpgTile026" type="Sprite" parent="."]
+position = Vector2( 544, 96 )
+texture = ExtResource( 12 )
+
+[node name="rpgTile027" type="Sprite" parent="."]
+position = Vector2( 608, 96 )
+texture = ExtResource( 13 )
+
+[node name="rpgTile028" type="Sprite" parent="."]
+position = Vector2( 672, 96 )
+texture = ExtResource( 16 )
+
+[node name="rpgTile029" type="Sprite" parent="."]
+position = Vector2( 736, 96 )
+texture = ExtResource( 17 )
+
+[node name="rpgTile030" type="Sprite" parent="."]
+position = Vector2( 800, 96 )
+texture = ExtResource( 10 )
+
+[node name="rpgTile031" type="Sprite" parent="."]
+position = Vector2( 864, 96 )
+texture = ExtResource( 25 )
+
+[node name="rpgTile032" type="Sprite" parent="."]
+position = Vector2( 928, 96 )
+texture = ExtResource( 14 )
+
+[node name="rpgTile036" type="Sprite" parent="."]
+position = Vector2( 32, 160 )
+texture = ExtResource( 23 )
+
+[node name="rpgTile037" type="Sprite" parent="."]
+position = Vector2( 96, 160 )
+texture = ExtResource( 26 )
+
+[node name="rpgTile038" type="Sprite" parent="."]
+position = Vector2( 160, 160 )
+texture = ExtResource( 45 )
+
+[node name="rpgTile039" type="Sprite" parent="."]
+position = Vector2( 224, 160 )
+texture = ExtResource( 50 )
+
+[node name="rpgTile040" type="Sprite" parent="."]
+position = Vector2( 288, 160 )
+texture = ExtResource( 40 )
+
+[node name="rpgTile041" type="Sprite" parent="."]
+position = Vector2( 352, 160 )
+texture = ExtResource( 34 )
+
+[node name="rpgTile042" type="Sprite" parent="."]
+position = Vector2( 416, 160 )
+texture = ExtResource( 33 )
+
+[node name="rpgTile043" type="Sprite" parent="."]
+position = Vector2( 480, 160 )
+texture = ExtResource( 36 )
+
+[node name="rpgTile044" type="Sprite" parent="."]
+position = Vector2( 672, 160 )
+texture = ExtResource( 37 )
+
+[node name="rpgTile045" type="Sprite" parent="."]
+position = Vector2( 736, 160 )
+texture = ExtResource( 47 )
+
+[node name="rpgTile046" type="Sprite" parent="."]
+position = Vector2( 800, 160 )
+texture = ExtResource( 49 )
+
+[node name="rpgTile156" type="Sprite" parent="."]
+position = Vector2( 96, 224 )
+texture = ExtResource( 46 )
+
+[node name="rpgTile155" type="Sprite" parent="."]
+position = Vector2( 32, 224 )
+texture = ExtResource( 35 )
+
+[node name="rpgTile158" type="Sprite" parent="."]
+position = Vector2( 224, 224 )
+texture = ExtResource( 48 )
+
+[node name="rpgTile157" type="Sprite" parent="."]
+position = Vector2( 160, 224 )
+texture = ExtResource( 39 )
+
+[node name="rpgTile159" type="Sprite" parent="."]
+position = Vector2( 288, 224 )
+texture = ExtResource( 51 )
+
+[node name="rpgTile160" type="Sprite" parent="."]
+position = Vector2( 352, 224 )
+texture = ExtResource( 38 )
+
+[node name="rpgTile163" type="Sprite" parent="."]
+position = Vector2( 416, 224 )
+texture = ExtResource( 53 )
+
+[node name="rpgTile164" type="Sprite" parent="."]
+position = Vector2( 480, 224 )
+texture = ExtResource( 43 )
+
+[node name="rpgTile175" type="Sprite" parent="."]
+position = Vector2( 544, 224 )
+texture = ExtResource( 41 )
+
+[node name="rpgTile178" type="Sprite" parent="."]
+position = Vector2( 736, 224 )
+texture = ExtResource( 52 )
+
+[node name="rpgTile176" type="Sprite" parent="."]
+position = Vector2( 608, 224 )
+texture = ExtResource( 44 )
+
+[node name="rpgTile177" type="Sprite" parent="."]
+position = Vector2( 672, 224 )
+texture = ExtResource( 42 )
+
+[node name="rpgTile179" type="Sprite" parent="."]
+position = Vector2( 800, 224 )
+texture = ExtResource( 55 )
+
+[node name="rpgTile180" type="Sprite" parent="."]
+position = Vector2( 864, 224 )
+texture = ExtResource( 59 )
+
+[node name="rpgTile184" type="Sprite" parent="."]
+position = Vector2( 928, 224 )
+texture = ExtResource( 64 )
+
+[node name="rpgTile195" type="Sprite" parent="."]
+position = Vector2( 544, 288 )
+texture = ExtResource( 60 )
+
+[node name="rpgTile196" type="Sprite" parent="."]
+position = Vector2( 608, 288 )
+texture = ExtResource( 56 )
+
+[node name="rpgTile197" type="Sprite" parent="."]
+position = Vector2( 672, 288 )
+texture = ExtResource( 62 )
+
+[node name="rpgTile198" type="Sprite" parent="."]
+position = Vector2( 736, 288 )
+texture = ExtResource( 63 )
+
+[node name="rpgTile199" type="Sprite" parent="."]
+position = Vector2( 800, 288 )
+texture = ExtResource( 61 )
+
+[node name="rpgTile200" type="Sprite" parent="."]
+position = Vector2( 864, 288 )
+texture = ExtResource( 57 )
+
+[node name="rpgTile203" type="Sprite" parent="."]
+position = Vector2( 928, 280 )
+texture = ExtResource( 58 )
+
+[node name="rpgTile216" type="Sprite" parent="."]
+position = Vector2( 544, 160 )
+texture = ExtResource( 54 )

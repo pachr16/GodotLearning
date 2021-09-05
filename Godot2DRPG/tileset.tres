@@ -1,0 +1,1134 @@
+[gd_resource type="TileSet" load_steps=82 format=2]
+
+[ext_resource path="res://Sprites/Tiles/rpgTile000.png" type="Texture" id=1]
+[ext_resource path="res://Sprites/Tiles/rpgTile001.png" type="Texture" id=2]
+[ext_resource path="res://Sprites/Tiles/rpgTile002.png" type="Texture" id=3]
+[ext_resource path="res://Sprites/Tiles/rpgTile004.png" type="Texture" id=4]
+[ext_resource path="res://Sprites/Tiles/rpgTile005.png" type="Texture" id=5]
+[ext_resource path="res://Sprites/Tiles/rpgTile003.png" type="Texture" id=6]
+[ext_resource path="res://Sprites/Tiles/rpgTile013.png" type="Texture" id=7]
+[ext_resource path="res://Sprites/Tiles/rpgTile018.png" type="Texture" id=8]
+[ext_resource path="res://Sprites/Tiles/rpgTile019.png" type="Texture" id=9]
+[ext_resource path="res://Sprites/Tiles/rpgTile030.png" type="Texture" id=10]
+[ext_resource path="res://Sprites/Tiles/rpgTile007.png" type="Texture" id=11]
+[ext_resource path="res://Sprites/Tiles/rpgTile026.png" type="Texture" id=12]
+[ext_resource path="res://Sprites/Tiles/rpgTile027.png" type="Texture" id=13]
+[ext_resource path="res://Sprites/Tiles/rpgTile032.png" type="Texture" id=14]
+[ext_resource path="res://Sprites/Tiles/rpgTile008.png" type="Texture" id=15]
+[ext_resource path="res://Sprites/Tiles/rpgTile028.png" type="Texture" id=16]
+[ext_resource path="res://Sprites/Tiles/rpgTile029.png" type="Texture" id=17]
+[ext_resource path="res://Sprites/Tiles/rpgTile024.png" type="Texture" id=18]
+[ext_resource path="res://Sprites/Tiles/rpgTile023.png" type="Texture" id=19]
+[ext_resource path="res://Sprites/Tiles/rpgTile011.png" type="Texture" id=20]
+[ext_resource path="res://Sprites/Tiles/rpgTile021.png" type="Texture" id=21]
+[ext_resource path="res://Sprites/Tiles/rpgTile025.png" type="Texture" id=22]
+[ext_resource path="res://Sprites/Tiles/rpgTile036.png" type="Texture" id=23]
+[ext_resource path="res://Sprites/Tiles/rpgTile009.png" type="Texture" id=24]
+[ext_resource path="res://Sprites/Tiles/rpgTile031.png" type="Texture" id=25]
+[ext_resource path="res://Sprites/Tiles/rpgTile037.png" type="Texture" id=26]
+[ext_resource path="res://Sprites/Tiles/rpgTile006.png" type="Texture" id=27]
+[ext_resource path="res://Sprites/Tiles/rpgTile010.png" type="Texture" id=28]
+[ext_resource path="res://Sprites/Tiles/rpgTile020.png" type="Texture" id=29]
+[ext_resource path="res://Sprites/Tiles/rpgTile014.png" type="Texture" id=30]
+[ext_resource path="res://Sprites/Tiles/rpgTile012.png" type="Texture" id=31]
+[ext_resource path="res://Sprites/Tiles/rpgTile022.png" type="Texture" id=32]
+[ext_resource path="res://Sprites/Tiles/rpgTile042.png" type="Texture" id=33]
+[ext_resource path="res://Sprites/Tiles/rpgTile041.png" type="Texture" id=34]
+[ext_resource path="res://Sprites/Tiles/rpgTile155.png" type="Texture" id=35]
+[ext_resource path="res://Sprites/Tiles/rpgTile043.png" type="Texture" id=36]
+[ext_resource path="res://Sprites/Tiles/rpgTile044.png" type="Texture" id=37]
+[ext_resource path="res://Sprites/Tiles/rpgTile160.png" type="Texture" id=38]
+[ext_resource path="res://Sprites/Tiles/rpgTile157.png" type="Texture" id=39]
+[ext_resource path="res://Sprites/Tiles/rpgTile040.png" type="Texture" id=40]
+[ext_resource path="res://Sprites/Tiles/rpgTile175.png" type="Texture" id=41]
+[ext_resource path="res://Sprites/Tiles/rpgTile177.png" type="Texture" id=42]
+[ext_resource path="res://Sprites/Tiles/rpgTile164.png" type="Texture" id=43]
+[ext_resource path="res://Sprites/Tiles/rpgTile176.png" type="Texture" id=44]
+[ext_resource path="res://Sprites/Tiles/rpgTile038.png" type="Texture" id=45]
+[ext_resource path="res://Sprites/Tiles/rpgTile156.png" type="Texture" id=46]
+[ext_resource path="res://Sprites/Tiles/rpgTile045.png" type="Texture" id=47]
+[ext_resource path="res://Sprites/Tiles/rpgTile158.png" type="Texture" id=48]
+[ext_resource path="res://Sprites/Tiles/rpgTile046.png" type="Texture" id=49]
+[ext_resource path="res://Sprites/Tiles/rpgTile039.png" type="Texture" id=50]
+[ext_resource path="res://Sprites/Tiles/rpgTile159.png" type="Texture" id=51]
+[ext_resource path="res://Sprites/Tiles/rpgTile178.png" type="Texture" id=52]
+[ext_resource path="res://Sprites/Tiles/rpgTile163.png" type="Texture" id=53]
+[ext_resource path="res://Sprites/Tiles/rpgTile216.png" type="Texture" id=54]
+[ext_resource path="res://Sprites/Tiles/rpgTile179.png" type="Texture" id=55]
+[ext_resource path="res://Sprites/Tiles/rpgTile196.png" type="Texture" id=56]
+[ext_resource path="res://Sprites/Tiles/rpgTile200.png" type="Texture" id=57]
+[ext_resource path="res://Sprites/Tiles/rpgTile203.png" type="Texture" id=58]
+[ext_resource path="res://Sprites/Tiles/rpgTile180.png" type="Texture" id=59]
+[ext_resource path="res://Sprites/Tiles/rpgTile195.png" type="Texture" id=60]
+[ext_resource path="res://Sprites/Tiles/rpgTile199.png" type="Texture" id=61]
+[ext_resource path="res://Sprites/Tiles/rpgTile197.png" type="Texture" id=62]
+[ext_resource path="res://Sprites/Tiles/rpgTile198.png" type="Texture" id=63]
+[ext_resource path="res://Sprites/Tiles/rpgTile184.png" type="Texture" id=64]
+
+[sub_resource type="ConvexPolygonShape2D" id=1]
+points = PoolVector2Array( 52.7934, 64, 10.9311, 64, 10.9311, 16.5128, 52.7934, 16.5128 )
+
+[sub_resource type="ConvexPolygonShape2D" id=2]
+points = PoolVector2Array( 47.6769, 64, 16.0476, 64, 16.0476, 26.9783, 47.6769, 26.9783 )
+
+[sub_resource type="ConvexPolygonShape2D" id=3]
+points = PoolVector2Array( 2.55867, 63.724, 12.3265, 36.9787, 20.699, 16.5128, 31.3971, 5.58206, 42.5604, 14.4196, 49.3048, 24.6526, 52.0956, 33.4902, 50.0025, 37.909, 54.4213, 43.0255, 60.003, 54.6539, 61.1658, 64 )
+
+[sub_resource type="ConvexPolygonShape2D" id=4]
+points = PoolVector2Array( 10.2334, 64, 15.3499, 56.2819, 18.6059, 43.2581, 30.932, 27.4434, 44.4209, 42.5604, 48.3746, 58.1424, 52.3282, 63.9566 )
+
+[sub_resource type="ConvexPolygonShape2D" id=5]
+points = PoolVector2Array( 10.0008, 64, 16.5127, 56.5144, 16.9779, 43.9558, 22.3269, 36.5136, 30.932, 29.0714, 40.4672, 37.2113, 46.2815, 46.514, 46.9791, 56.5144, 52.0956, 63.724 )
+
+[sub_resource type="ConvexPolygonShape2D" id=6]
+points = PoolVector2Array( 2.09354, 64, 3.72151, 55.8167, 10.6986, 42.7929, 13.7219, 38.3741, 13.7219, 25.3503, 22.0944, 14.4196, 31.8622, 5.34949, 43.2581, 15.5825, 50.4677, 27.9086, 50.9328, 40.4673, 58.6076, 50.9328, 61.1658, 58.375, 60.7007, 63.9566 )
+
+[sub_resource type="ConvexPolygonShape2D" id=7]
+points = PoolVector2Array( 2.3261, 64, 9.76827, 43.9558, 15.815, 24.4201, 32.5599, 7.21004, 42.5604, 14.8848, 50.7002, 33.0251, 51.6305, 43.9558, 57.9098, 52.0956, 60.9332, 64 )
+
+[sub_resource type="ConvexPolygonShape2D" id=8]
+points = PoolVector2Array( 9.30314, 63.9566, 15.5825, 55.3516, 18.6059, 43.4906, 31.6297, 28.1411, 40.4672, 37.4439, 45.8163, 48.142, 46.514, 56.9796, 52.7934, 64 )
+
+[sub_resource type="ConvexPolygonShape2D" id=9]
+points = PoolVector2Array( 30.0017, 63.4915, 22.3269, 59.3053, 18.3733, 54.4213, 18.1407, 29.0714, 23.0247, 22.327, 30.6994, 19.7687, 38.1416, 21.1641, 42.7929, 25.8155, 44.886, 30.0017, 44.886, 55.119, 42.5604, 58.375, 37.6764, 61.1658 )
+
+[sub_resource type="ConvexPolygonShape2D" id=10]
+points = PoolVector2Array( 25.5829, 40.4673, 21.8618, 37.4439, 15.5825, 33.4902, 8.60545, 26.048, 3.02381, 14.8848, 1.16326, 6.51233, 2.79124, 0.232986, 60.4681, 0, 60.9332, 12.7917, 55.119, 27.676, 48.142, 34.8856, 40.2347, 38.6067, 37.4439, 42.0952, 39.3044, 57.4447, 36.7462, 60.003, 31.8622, 62.0961, 26.7457, 60.9332, 23.0247, 57.9099 )
+
+[sub_resource type="ConvexPolygonShape2D" id=11]
+points = PoolVector2Array( 27.0171, 41.7464, 20.6214, 37.4826, 13.4506, 30.118, 7.6364, 16.9391, 7.4426, 6.66737, 10.7373, 0, 52.2119, 0, 54.7314, 12.094, 54.15, 21.9781, 49.8862, 31.087, 42.134, 38.2579, 34.9631, 42.134, 36.9012, 59.3828, 33.6065, 61.9023, 28.7613, 61.5147, 25.079, 59.9642 )
+
+[sub_resource type="ConvexPolygonShape2D" id=12]
+points = PoolVector2Array( 25.079, 39.4207, 10.3497, 29.3428, 2.59743, 15.9701, 2.01601, 0, 60.158, 0, 60.5456, 14.6134, 53.181, 30.118, 37.6764, 39.8083, 39.8083, 55.7004, 38.6455, 59.5766, 33.4127, 62.2899, 29.1489, 61.7085, 22.9471, 58.2199 )
+
+[sub_resource type="ConvexPolygonShape2D" id=13]
+points = PoolVector2Array( 28.3737, 41.7464, 26.2418, 41.165, 15.5825, 33.9941, 10.1559, 23.5285, 8.79924, 10.3497, 10.3497, 0, 52.4057, 0.271751, 55.5066, 12.4816, 49.8862, 32.2498, 35.157, 41.9402, 37.095, 58.8014, 34.1879, 61.5147, 29.5366, 62.4837, 25.079, 59.189 )
+
+[sub_resource type="ConvexPolygonShape2D" id=14]
+points = PoolVector2Array( 25.4666, 39.8083, 16.7453, 33.9941, 8.60544, 24.6914, 1.8222, 9.76827, 2.59743, 0, 60.7394, 0.0779419, 61.7085, 14.6134, 57.0571, 18.102, 54.9252, 29.3428, 37.2888, 39.8083, 40.1959, 56.6695, 36.5136, 60.9332, 30.6994, 62.0961, 25.8542, 60.5456, 22.7533, 57.0571 )
+
+[sub_resource type="ConvexPolygonShape2D" id=15]
+points = PoolVector2Array( 26.8233, 41.3588, 20.6214, 38.064, 12.6754, 30.118, 7.4426, 15.0011, 9.96208, 0.0779419, 52.4057, 0.0779419, 53.9562, 11.7063, 53.5686, 22.3657, 48.5296, 33.2189, 34.7693, 41.7464, 37.2888, 59.189, 34.7693, 61.127, 30.3118, 62.4837, 25.6604, 59.7704 )
+
+[sub_resource type="ConvexPolygonShape2D" id=16]
+points = PoolVector2Array( 28.1799, 63.8403, 21.3967, 59.5766, 16.7453, 53.5686, 17.9082, 27.9861, 26.8233, 19.2648, 36.3198, 20.04, 43.2968, 26.8233, 44.6535, 37.8702, 45.2349, 52.9872, 41.7464, 58.2199, 35.3508, 64 )
+
+[sub_resource type="ConvexPolygonShape2D" id=17]
+points = PoolVector2Array( 9.57447, 63.6465, 0, 64, 0, 29.9242, 4.92311, 26.2418, 9.96208, 29.9242, 9.76827, 35.3508, 54.15, 35.1569, 53.9562, 29.7304, 59.3828, 26.048, 64, 29.9242, 64, 64, 54.3438, 64, 53.7624, 58.8014, 9.38066, 58.9952 )
+
+[resource]
+0/name = "rpgTile000"
+0/texture = ExtResource( 1 )
+0/tex_offset = Vector2( 0, 0 )
+0/modulate = Color( 1, 1, 1, 1 )
+0/region = Rect2( 0, 0, 64, 64 )
+0/tile_mode = 0
+0/occluder_offset = Vector2( 32, 32 )
+0/navigation_offset = Vector2( 32, 32 )
+0/shape_offset = Vector2( 0, 0 )
+0/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+0/shape_one_way = false
+0/shape_one_way_margin = 0.0
+0/shapes = [  ]
+0/z_index = 0
+1/name = "rpgTile001"
+1/texture = ExtResource( 2 )
+1/tex_offset = Vector2( 0, 0 )
+1/modulate = Color( 1, 1, 1, 1 )
+1/region = Rect2( 0, 0, 64, 64 )
+1/tile_mode = 0
+1/occluder_offset = Vector2( 32, 32 )
+1/navigation_offset = Vector2( 32, 32 )
+1/shape_offset = Vector2( 0, 0 )
+1/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+1/shape_one_way = false
+1/shape_one_way_margin = 0.0
+1/shapes = [  ]
+1/z_index = 0
+2/name = "rpgTile002"
+2/texture = ExtResource( 3 )
+2/tex_offset = Vector2( 0, 0 )
+2/modulate = Color( 1, 1, 1, 1 )
+2/region = Rect2( 0, 0, 64, 64 )
+2/tile_mode = 0
+2/occluder_offset = Vector2( 32, 32 )
+2/navigation_offset = Vector2( 32, 32 )
+2/shape_offset = Vector2( 0, 0 )
+2/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+2/shape_one_way = false
+2/shape_one_way_margin = 0.0
+2/shapes = [  ]
+2/z_index = 0
+3/name = "rpgTile003"
+3/texture = ExtResource( 6 )
+3/tex_offset = Vector2( 0, 0 )
+3/modulate = Color( 1, 1, 1, 1 )
+3/region = Rect2( 0, 0, 64, 64 )
+3/tile_mode = 0
+3/occluder_offset = Vector2( 32, 32 )
+3/navigation_offset = Vector2( 32, 32 )
+3/shape_offset = Vector2( 0, 0 )
+3/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+3/shape_one_way = false
+3/shape_one_way_margin = 0.0
+3/shapes = [  ]
+3/z_index = 0
+4/name = "rpgTile004"
+4/texture = ExtResource( 4 )
+4/tex_offset = Vector2( 0, 0 )
+4/modulate = Color( 1, 1, 1, 1 )
+4/region = Rect2( 0, 0, 64, 64 )
+4/tile_mode = 0
+4/occluder_offset = Vector2( 32, 32 )
+4/navigation_offset = Vector2( 32, 32 )
+4/shape_offset = Vector2( 0, 0 )
+4/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+4/shape_one_way = false
+4/shape_one_way_margin = 0.0
+4/shapes = [  ]
+4/z_index = 0
+5/name = "rpgTile005"
+5/texture = ExtResource( 5 )
+5/tex_offset = Vector2( 0, 0 )
+5/modulate = Color( 1, 1, 1, 1 )
+5/region = Rect2( 0, 0, 64, 64 )
+5/tile_mode = 0
+5/occluder_offset = Vector2( 32, 32 )
+5/navigation_offset = Vector2( 32, 32 )
+5/shape_offset = Vector2( 0, 0 )
+5/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+5/shape_one_way = false
+5/shape_one_way_margin = 0.0
+5/shapes = [  ]
+5/z_index = 0
+6/name = "rpgTile006"
+6/texture = ExtResource( 27 )
+6/tex_offset = Vector2( 0, 0 )
+6/modulate = Color( 1, 1, 1, 1 )
+6/region = Rect2( 0, 0, 64, 64 )
+6/tile_mode = 0
+6/occluder_offset = Vector2( 32, 32 )
+6/navigation_offset = Vector2( 32, 32 )
+6/shape_offset = Vector2( 0, 0 )
+6/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+6/shape_one_way = false
+6/shape_one_way_margin = 0.0
+6/shapes = [  ]
+6/z_index = 0
+7/name = "rpgTile007"
+7/texture = ExtResource( 11 )
+7/tex_offset = Vector2( 0, 0 )
+7/modulate = Color( 1, 1, 1, 1 )
+7/region = Rect2( 0, 0, 64, 64 )
+7/tile_mode = 0
+7/occluder_offset = Vector2( 32, 32 )
+7/navigation_offset = Vector2( 32, 32 )
+7/shape_offset = Vector2( 0, 0 )
+7/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+7/shape_one_way = false
+7/shape_one_way_margin = 0.0
+7/shapes = [  ]
+7/z_index = 0
+8/name = "rpgTile008"
+8/texture = ExtResource( 15 )
+8/tex_offset = Vector2( 0, 0 )
+8/modulate = Color( 1, 1, 1, 1 )
+8/region = Rect2( 0, 0, 64, 64 )
+8/tile_mode = 0
+8/occluder_offset = Vector2( 32, 32 )
+8/navigation_offset = Vector2( 32, 32 )
+8/shape_offset = Vector2( 0, 0 )
+8/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+8/shape_one_way = false
+8/shape_one_way_margin = 0.0
+8/shapes = [  ]
+8/z_index = 0
+9/name = "rpgTile009"
+9/texture = ExtResource( 24 )
+9/tex_offset = Vector2( 0, 0 )
+9/modulate = Color( 1, 1, 1, 1 )
+9/region = Rect2( 0, 0, 64, 64 )
+9/tile_mode = 0
+9/occluder_offset = Vector2( 32, 32 )
+9/navigation_offset = Vector2( 32, 32 )
+9/shape_offset = Vector2( 0, 0 )
+9/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+9/shape_one_way = false
+9/shape_one_way_margin = 0.0
+9/shapes = [  ]
+9/z_index = 0
+10/name = "rpgTile010"
+10/texture = ExtResource( 28 )
+10/tex_offset = Vector2( 0, 0 )
+10/modulate = Color( 1, 1, 1, 1 )
+10/region = Rect2( 0, 0, 64, 64 )
+10/tile_mode = 0
+10/occluder_offset = Vector2( 32, 32 )
+10/navigation_offset = Vector2( 32, 32 )
+10/shape_offset = Vector2( 0, 0 )
+10/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+10/shape_one_way = false
+10/shape_one_way_margin = 0.0
+10/shapes = [  ]
+10/z_index = 0
+11/name = "rpgTile011"
+11/texture = ExtResource( 20 )
+11/tex_offset = Vector2( 0, 0 )
+11/modulate = Color( 1, 1, 1, 1 )
+11/region = Rect2( 0, 0, 64, 64 )
+11/tile_mode = 0
+11/occluder_offset = Vector2( 32, 32 )
+11/navigation_offset = Vector2( 32, 32 )
+11/shape_offset = Vector2( 0, 0 )
+11/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+11/shape_one_way = false
+11/shape_one_way_margin = 0.0
+11/shapes = [  ]
+11/z_index = 0
+12/name = "rpgTile012"
+12/texture = ExtResource( 31 )
+12/tex_offset = Vector2( 0, 0 )
+12/modulate = Color( 1, 1, 1, 1 )
+12/region = Rect2( 0, 0, 64, 64 )
+12/tile_mode = 0
+12/occluder_offset = Vector2( 32, 32 )
+12/navigation_offset = Vector2( 32, 32 )
+12/shape_offset = Vector2( 0, 0 )
+12/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+12/shape_one_way = false
+12/shape_one_way_margin = 0.0
+12/shapes = [  ]
+12/z_index = 0
+13/name = "rpgTile013"
+13/texture = ExtResource( 7 )
+13/tex_offset = Vector2( 0, 0 )
+13/modulate = Color( 1, 1, 1, 1 )
+13/region = Rect2( 0, 0, 64, 64 )
+13/tile_mode = 0
+13/occluder_offset = Vector2( 32, 32 )
+13/navigation_offset = Vector2( 32, 32 )
+13/shape_offset = Vector2( 0, 0 )
+13/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+13/shape_one_way = false
+13/shape_one_way_margin = 0.0
+13/shapes = [  ]
+13/z_index = 0
+14/name = "rpgTile014"
+14/texture = ExtResource( 30 )
+14/tex_offset = Vector2( 0, 0 )
+14/modulate = Color( 1, 1, 1, 1 )
+14/region = Rect2( 0, 0, 64, 64 )
+14/tile_mode = 0
+14/occluder_offset = Vector2( 32, 32 )
+14/navigation_offset = Vector2( 32, 32 )
+14/shape_offset = Vector2( 0, 0 )
+14/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+14/shape_one_way = false
+14/shape_one_way_margin = 0.0
+14/shapes = [  ]
+14/z_index = 0
+15/name = "rpgTile018"
+15/texture = ExtResource( 8 )
+15/tex_offset = Vector2( 0, 0 )
+15/modulate = Color( 1, 1, 1, 1 )
+15/region = Rect2( 0, 0, 64, 64 )
+15/tile_mode = 0
+15/occluder_offset = Vector2( 32, 32 )
+15/navigation_offset = Vector2( 32, 32 )
+15/shape_offset = Vector2( 0, 0 )
+15/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+15/shape_one_way = false
+15/shape_one_way_margin = 0.0
+15/shapes = [  ]
+15/z_index = 0
+16/name = "rpgTile019"
+16/texture = ExtResource( 9 )
+16/tex_offset = Vector2( 0, 0 )
+16/modulate = Color( 1, 1, 1, 1 )
+16/region = Rect2( 0, 0, 64, 64 )
+16/tile_mode = 0
+16/occluder_offset = Vector2( 32, 32 )
+16/navigation_offset = Vector2( 32, 32 )
+16/shape_offset = Vector2( 0, 0 )
+16/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+16/shape_one_way = false
+16/shape_one_way_margin = 0.0
+16/shapes = [  ]
+16/z_index = 0
+17/name = "rpgTile020"
+17/texture = ExtResource( 29 )
+17/tex_offset = Vector2( 0, 0 )
+17/modulate = Color( 1, 1, 1, 1 )
+17/region = Rect2( 0, 0, 64, 64 )
+17/tile_mode = 0
+17/occluder_offset = Vector2( 32, 32 )
+17/navigation_offset = Vector2( 32, 32 )
+17/shape_offset = Vector2( 0, 0 )
+17/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+17/shape_one_way = false
+17/shape_one_way_margin = 0.0
+17/shapes = [  ]
+17/z_index = 0
+18/name = "rpgTile021"
+18/texture = ExtResource( 21 )
+18/tex_offset = Vector2( 0, 0 )
+18/modulate = Color( 1, 1, 1, 1 )
+18/region = Rect2( 0, 0, 64, 64 )
+18/tile_mode = 0
+18/occluder_offset = Vector2( 32, 32 )
+18/navigation_offset = Vector2( 32, 32 )
+18/shape_offset = Vector2( 0, 0 )
+18/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+18/shape_one_way = false
+18/shape_one_way_margin = 0.0
+18/shapes = [  ]
+18/z_index = 0
+19/name = "rpgTile022"
+19/texture = ExtResource( 32 )
+19/tex_offset = Vector2( 0, 0 )
+19/modulate = Color( 1, 1, 1, 1 )
+19/region = Rect2( 0, 0, 64, 64 )
+19/tile_mode = 0
+19/occluder_offset = Vector2( 32, 32 )
+19/navigation_offset = Vector2( 32, 32 )
+19/shape_offset = Vector2( 0, 0 )
+19/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+19/shape_one_way = false
+19/shape_one_way_margin = 0.0
+19/shapes = [  ]
+19/z_index = 0
+20/name = "rpgTile023"
+20/texture = ExtResource( 19 )
+20/tex_offset = Vector2( 0, 0 )
+20/modulate = Color( 1, 1, 1, 1 )
+20/region = Rect2( 0, 0, 64, 64 )
+20/tile_mode = 0
+20/occluder_offset = Vector2( 32, 32 )
+20/navigation_offset = Vector2( 32, 32 )
+20/shape_offset = Vector2( 0, 0 )
+20/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+20/shape_one_way = false
+20/shape_one_way_margin = 0.0
+20/shapes = [  ]
+20/z_index = 0
+21/name = "rpgTile024"
+21/texture = ExtResource( 18 )
+21/tex_offset = Vector2( 0, 0 )
+21/modulate = Color( 1, 1, 1, 1 )
+21/region = Rect2( 0, 0, 64, 64 )
+21/tile_mode = 0
+21/occluder_offset = Vector2( 32, 32 )
+21/navigation_offset = Vector2( 32, 32 )
+21/shape_offset = Vector2( 0, 0 )
+21/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+21/shape_one_way = false
+21/shape_one_way_margin = 0.0
+21/shapes = [  ]
+21/z_index = 0
+22/name = "rpgTile025"
+22/texture = ExtResource( 22 )
+22/tex_offset = Vector2( 0, 0 )
+22/modulate = Color( 1, 1, 1, 1 )
+22/region = Rect2( 0, 0, 64, 64 )
+22/tile_mode = 0
+22/occluder_offset = Vector2( 32, 32 )
+22/navigation_offset = Vector2( 32, 32 )
+22/shape_offset = Vector2( 0, 0 )
+22/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+22/shape_one_way = false
+22/shape_one_way_margin = 0.0
+22/shapes = [  ]
+22/z_index = 0
+23/name = "rpgTile026"
+23/texture = ExtResource( 12 )
+23/tex_offset = Vector2( 0, 0 )
+23/modulate = Color( 1, 1, 1, 1 )
+23/region = Rect2( 0, 0, 64, 64 )
+23/tile_mode = 0
+23/occluder_offset = Vector2( 32, 32 )
+23/navigation_offset = Vector2( 32, 32 )
+23/shape_offset = Vector2( 0, 0 )
+23/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+23/shape_one_way = false
+23/shape_one_way_margin = 0.0
+23/shapes = [  ]
+23/z_index = 0
+24/name = "rpgTile027"
+24/texture = ExtResource( 13 )
+24/tex_offset = Vector2( 0, 0 )
+24/modulate = Color( 1, 1, 1, 1 )
+24/region = Rect2( 0, 0, 64, 64 )
+24/tile_mode = 0
+24/occluder_offset = Vector2( 32, 32 )
+24/navigation_offset = Vector2( 32, 32 )
+24/shape_offset = Vector2( 0, 0 )
+24/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+24/shape_one_way = false
+24/shape_one_way_margin = 0.0
+24/shapes = [  ]
+24/z_index = 0
+25/name = "rpgTile028"
+25/texture = ExtResource( 16 )
+25/tex_offset = Vector2( 0, 0 )
+25/modulate = Color( 1, 1, 1, 1 )
+25/region = Rect2( 0, 0, 64, 64 )
+25/tile_mode = 0
+25/occluder_offset = Vector2( 32, 32 )
+25/navigation_offset = Vector2( 32, 32 )
+25/shape_offset = Vector2( 0, 0 )
+25/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+25/shape_one_way = false
+25/shape_one_way_margin = 0.0
+25/shapes = [  ]
+25/z_index = 0
+26/name = "rpgTile029"
+26/texture = ExtResource( 17 )
+26/tex_offset = Vector2( 0, 0 )
+26/modulate = Color( 1, 1, 1, 1 )
+26/region = Rect2( 0, 0, 64, 64 )
+26/tile_mode = 0
+26/occluder_offset = Vector2( 32, 32 )
+26/navigation_offset = Vector2( 32, 32 )
+26/shape_offset = Vector2( 0, 0 )
+26/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+26/shape_one_way = false
+26/shape_one_way_margin = 0.0
+26/shapes = [  ]
+26/z_index = 0
+27/name = "rpgTile030"
+27/texture = ExtResource( 10 )
+27/tex_offset = Vector2( 0, 0 )
+27/modulate = Color( 1, 1, 1, 1 )
+27/region = Rect2( 0, 0, 64, 64 )
+27/tile_mode = 0
+27/occluder_offset = Vector2( 32, 32 )
+27/navigation_offset = Vector2( 32, 32 )
+27/shape_offset = Vector2( 0, 0 )
+27/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+27/shape_one_way = false
+27/shape_one_way_margin = 0.0
+27/shapes = [  ]
+27/z_index = 0
+28/name = "rpgTile031"
+28/texture = ExtResource( 25 )
+28/tex_offset = Vector2( 0, 0 )
+28/modulate = Color( 1, 1, 1, 1 )
+28/region = Rect2( 0, 0, 64, 64 )
+28/tile_mode = 0
+28/occluder_offset = Vector2( 32, 32 )
+28/navigation_offset = Vector2( 32, 32 )
+28/shape_offset = Vector2( 0, 0 )
+28/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+28/shape_one_way = false
+28/shape_one_way_margin = 0.0
+28/shapes = [  ]
+28/z_index = 0
+29/name = "rpgTile032"
+29/texture = ExtResource( 14 )
+29/tex_offset = Vector2( 0, 0 )
+29/modulate = Color( 1, 1, 1, 1 )
+29/region = Rect2( 0, 0, 64, 64 )
+29/tile_mode = 0
+29/occluder_offset = Vector2( 32, 32 )
+29/navigation_offset = Vector2( 32, 32 )
+29/shape_offset = Vector2( 0, 0 )
+29/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+29/shape_one_way = false
+29/shape_one_way_margin = 0.0
+29/shapes = [  ]
+29/z_index = 0
+30/name = "rpgTile036"
+30/texture = ExtResource( 23 )
+30/tex_offset = Vector2( 0, 0 )
+30/modulate = Color( 1, 1, 1, 1 )
+30/region = Rect2( 0, 0, 64, 64 )
+30/tile_mode = 0
+30/occluder_offset = Vector2( 32, 32 )
+30/navigation_offset = Vector2( 32, 32 )
+30/shape_offset = Vector2( 0, 0 )
+30/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+30/shape_one_way = false
+30/shape_one_way_margin = 0.0
+30/shapes = [  ]
+30/z_index = 0
+31/name = "rpgTile037"
+31/texture = ExtResource( 26 )
+31/tex_offset = Vector2( 0, 0 )
+31/modulate = Color( 1, 1, 1, 1 )
+31/region = Rect2( 0, 0, 64, 64 )
+31/tile_mode = 0
+31/occluder_offset = Vector2( 32, 32 )
+31/navigation_offset = Vector2( 32, 32 )
+31/shape_offset = Vector2( 0, 0 )
+31/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+31/shape_one_way = false
+31/shape_one_way_margin = 0.0
+31/shapes = [  ]
+31/z_index = 0
+32/name = "rpgTile038"
+32/texture = ExtResource( 45 )
+32/tex_offset = Vector2( 0, 0 )
+32/modulate = Color( 1, 1, 1, 1 )
+32/region = Rect2( 0, 0, 64, 64 )
+32/tile_mode = 0
+32/occluder_offset = Vector2( 32, 32 )
+32/navigation_offset = Vector2( 32, 32 )
+32/shape_offset = Vector2( 0, 0 )
+32/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+32/shape_one_way = false
+32/shape_one_way_margin = 0.0
+32/shapes = [  ]
+32/z_index = 0
+33/name = "rpgTile039"
+33/texture = ExtResource( 50 )
+33/tex_offset = Vector2( 0, 0 )
+33/modulate = Color( 1, 1, 1, 1 )
+33/region = Rect2( 0, 0, 64, 64 )
+33/tile_mode = 0
+33/occluder_offset = Vector2( 32, 32 )
+33/navigation_offset = Vector2( 32, 32 )
+33/shape_offset = Vector2( 0, 0 )
+33/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+33/shape_one_way = false
+33/shape_one_way_margin = 0.0
+33/shapes = [  ]
+33/z_index = 0
+34/name = "rpgTile040"
+34/texture = ExtResource( 40 )
+34/tex_offset = Vector2( 0, 0 )
+34/modulate = Color( 1, 1, 1, 1 )
+34/region = Rect2( 0, 0, 64, 64 )
+34/tile_mode = 0
+34/occluder_offset = Vector2( 32, 32 )
+34/navigation_offset = Vector2( 32, 32 )
+34/shape_offset = Vector2( 0, 0 )
+34/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+34/shape_one_way = false
+34/shape_one_way_margin = 0.0
+34/shapes = [  ]
+34/z_index = 0
+35/name = "rpgTile041"
+35/texture = ExtResource( 34 )
+35/tex_offset = Vector2( 0, 0 )
+35/modulate = Color( 1, 1, 1, 1 )
+35/region = Rect2( 0, 0, 64, 64 )
+35/tile_mode = 0
+35/occluder_offset = Vector2( 32, 32 )
+35/navigation_offset = Vector2( 32, 32 )
+35/shape_offset = Vector2( 0, 0 )
+35/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+35/shape_one_way = false
+35/shape_one_way_margin = 0.0
+35/shapes = [  ]
+35/z_index = 0
+36/name = "rpgTile042"
+36/texture = ExtResource( 33 )
+36/tex_offset = Vector2( 0, 0 )
+36/modulate = Color( 1, 1, 1, 1 )
+36/region = Rect2( 0, 0, 64, 64 )
+36/tile_mode = 0
+36/occluder_offset = Vector2( 32, 32 )
+36/navigation_offset = Vector2( 32, 32 )
+36/shape_offset = Vector2( 0, 0 )
+36/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+36/shape_one_way = false
+36/shape_one_way_margin = 0.0
+36/shapes = [  ]
+36/z_index = 0
+37/name = "rpgTile043"
+37/texture = ExtResource( 36 )
+37/tex_offset = Vector2( 0, 0 )
+37/modulate = Color( 1, 1, 1, 1 )
+37/region = Rect2( 0, 0, 64, 64 )
+37/tile_mode = 0
+37/occluder_offset = Vector2( 32, 32 )
+37/navigation_offset = Vector2( 32, 32 )
+37/shape_offset = Vector2( 0, 0 )
+37/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+37/shape_one_way = false
+37/shape_one_way_margin = 0.0
+37/shapes = [  ]
+37/z_index = 0
+38/name = "rpgTile044"
+38/texture = ExtResource( 37 )
+38/tex_offset = Vector2( 0, 0 )
+38/modulate = Color( 1, 1, 1, 1 )
+38/region = Rect2( 0, 0, 64, 64 )
+38/tile_mode = 0
+38/occluder_offset = Vector2( 32, 32 )
+38/navigation_offset = Vector2( 32, 32 )
+38/shape_offset = Vector2( 0, 0 )
+38/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+38/shape_one_way = false
+38/shape_one_way_margin = 0.0
+38/shapes = [  ]
+38/z_index = 0
+39/name = "rpgTile045"
+39/texture = ExtResource( 47 )
+39/tex_offset = Vector2( 0, 0 )
+39/modulate = Color( 1, 1, 1, 1 )
+39/region = Rect2( 0, 0, 64, 64 )
+39/tile_mode = 0
+39/occluder_offset = Vector2( 32, 32 )
+39/navigation_offset = Vector2( 32, 32 )
+39/shape_offset = Vector2( 0, 0 )
+39/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+39/shape_one_way = false
+39/shape_one_way_margin = 0.0
+39/shapes = [  ]
+39/z_index = 0
+40/name = "rpgTile046"
+40/texture = ExtResource( 49 )
+40/tex_offset = Vector2( 0, 0 )
+40/modulate = Color( 1, 1, 1, 1 )
+40/region = Rect2( 0, 0, 64, 64 )
+40/tile_mode = 0
+40/occluder_offset = Vector2( 32, 32 )
+40/navigation_offset = Vector2( 32, 32 )
+40/shape_offset = Vector2( 0, 0 )
+40/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+40/shape_one_way = false
+40/shape_one_way_margin = 0.0
+40/shapes = [  ]
+40/z_index = 0
+41/name = "rpgTile156"
+41/texture = ExtResource( 46 )
+41/tex_offset = Vector2( 0, 0 )
+41/modulate = Color( 1, 1, 1, 1 )
+41/region = Rect2( 0, 0, 64, 64 )
+41/tile_mode = 0
+41/occluder_offset = Vector2( 32, 32 )
+41/navigation_offset = Vector2( 32, 32 )
+41/shape_offset = Vector2( 0, 0 )
+41/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+41/shape_one_way = false
+41/shape_one_way_margin = 0.0
+41/shapes = [  ]
+41/z_index = 0
+42/name = "rpgTile155"
+42/texture = ExtResource( 35 )
+42/tex_offset = Vector2( 0, 0 )
+42/modulate = Color( 1, 1, 1, 1 )
+42/region = Rect2( 0, 0, 64, 64 )
+42/tile_mode = 0
+42/occluder_offset = Vector2( 32, 32 )
+42/navigation_offset = Vector2( 32, 32 )
+42/shape_offset = Vector2( 0, 0 )
+42/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+42/shape_one_way = false
+42/shape_one_way_margin = 0.0
+42/shapes = [  ]
+42/z_index = 0
+43/name = "rpgTile158"
+43/texture = ExtResource( 48 )
+43/tex_offset = Vector2( 0, 0 )
+43/modulate = Color( 1, 1, 1, 1 )
+43/region = Rect2( 0, 0, 64, 64 )
+43/tile_mode = 0
+43/occluder_offset = Vector2( 32, 32 )
+43/navigation_offset = Vector2( 32, 32 )
+43/shape_offset = Vector2( 0, 0 )
+43/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+43/shape_one_way = false
+43/shape_one_way_margin = 0.0
+43/shapes = [  ]
+43/z_index = 0
+44/name = "rpgTile157"
+44/texture = ExtResource( 39 )
+44/tex_offset = Vector2( 0, 0 )
+44/modulate = Color( 1, 1, 1, 1 )
+44/region = Rect2( 0, 0, 64, 64 )
+44/tile_mode = 0
+44/occluder_offset = Vector2( 32, 32 )
+44/navigation_offset = Vector2( 32, 32 )
+44/shape_offset = Vector2( 0, 0 )
+44/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+44/shape_one_way = false
+44/shape_one_way_margin = 0.0
+44/shapes = [  ]
+44/z_index = 0
+45/name = "rpgTile159"
+45/texture = ExtResource( 51 )
+45/tex_offset = Vector2( 0, 0 )
+45/modulate = Color( 1, 1, 1, 1 )
+45/region = Rect2( 0, 0, 64, 64 )
+45/tile_mode = 0
+45/occluder_offset = Vector2( 32, 32 )
+45/navigation_offset = Vector2( 32, 32 )
+45/shape_offset = Vector2( 0, 0 )
+45/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+45/shape_one_way = false
+45/shape_one_way_margin = 0.0
+45/shapes = [  ]
+45/z_index = 0
+46/name = "rpgTile160"
+46/texture = ExtResource( 38 )
+46/tex_offset = Vector2( 0, 0 )
+46/modulate = Color( 1, 1, 1, 1 )
+46/region = Rect2( 0, 0, 64, 64 )
+46/tile_mode = 0
+46/occluder_offset = Vector2( 32, 32 )
+46/navigation_offset = Vector2( 32, 32 )
+46/shape_offset = Vector2( 0, 0 )
+46/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+46/shape_one_way = false
+46/shape_one_way_margin = 0.0
+46/shapes = [  ]
+46/z_index = 0
+47/name = "rpgTile163"
+47/texture = ExtResource( 53 )
+47/tex_offset = Vector2( 0, 0 )
+47/modulate = Color( 1, 1, 1, 1 )
+47/region = Rect2( 0, 0, 64, 64 )
+47/tile_mode = 0
+47/occluder_offset = Vector2( 32, 32 )
+47/navigation_offset = Vector2( 32, 32 )
+47/shape_offset = Vector2( 0, 0 )
+47/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+47/shape = SubResource( 1 )
+47/shape_one_way = false
+47/shape_one_way_margin = 1.0
+47/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"one_way_margin": 1.0,
+"shape": SubResource( 1 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 0, 0 )
+} ]
+47/z_index = 0
+48/name = "rpgTile164"
+48/texture = ExtResource( 43 )
+48/tex_offset = Vector2( 0, 0 )
+48/modulate = Color( 1, 1, 1, 1 )
+48/region = Rect2( 0, 0, 64, 64 )
+48/tile_mode = 0
+48/occluder_offset = Vector2( 32, 32 )
+48/navigation_offset = Vector2( 32, 32 )
+48/shape_offset = Vector2( 0, 0 )
+48/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+48/shape = SubResource( 2 )
+48/shape_one_way = false
+48/shape_one_way_margin = 1.0
+48/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"one_way_margin": 1.0,
+"shape": SubResource( 2 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 0, 0 )
+} ]
+48/z_index = 0
+49/name = "rpgTile175"
+49/texture = ExtResource( 41 )
+49/tex_offset = Vector2( 0, 0 )
+49/modulate = Color( 1, 1, 1, 1 )
+49/region = Rect2( 0, 0, 64, 64 )
+49/tile_mode = 0
+49/occluder_offset = Vector2( 32, 32 )
+49/navigation_offset = Vector2( 32, 32 )
+49/shape_offset = Vector2( 0, 0 )
+49/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+49/shape = SubResource( 3 )
+49/shape_one_way = false
+49/shape_one_way_margin = 1.0
+49/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"one_way_margin": 1.0,
+"shape": SubResource( 3 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 0, 0 )
+} ]
+49/z_index = 0
+50/name = "rpgTile178"
+50/texture = ExtResource( 52 )
+50/tex_offset = Vector2( 0, 0 )
+50/modulate = Color( 1, 1, 1, 1 )
+50/region = Rect2( 0, 0, 64, 64 )
+50/tile_mode = 0
+50/occluder_offset = Vector2( 32, 32 )
+50/navigation_offset = Vector2( 32, 32 )
+50/shape_offset = Vector2( 0, 0 )
+50/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+50/shape = SubResource( 4 )
+50/shape_one_way = false
+50/shape_one_way_margin = 1.0
+50/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"one_way_margin": 1.0,
+"shape": SubResource( 4 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 0, 0 )
+} ]
+50/z_index = 0
+51/name = "rpgTile176"
+51/texture = ExtResource( 44 )
+51/tex_offset = Vector2( 0, 0 )
+51/modulate = Color( 1, 1, 1, 1 )
+51/region = Rect2( 0, 0, 64, 64 )
+51/tile_mode = 0
+51/occluder_offset = Vector2( 32, 32 )
+51/navigation_offset = Vector2( 32, 32 )
+51/shape_offset = Vector2( 0, 0 )
+51/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+51/shape = SubResource( 5 )
+51/shape_one_way = false
+51/shape_one_way_margin = 1.0
+51/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"one_way_margin": 1.0,
+"shape": SubResource( 5 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 0, 0 )
+} ]
+51/z_index = 0
+52/name = "rpgTile177"
+52/texture = ExtResource( 42 )
+52/tex_offset = Vector2( 0, 0 )
+52/modulate = Color( 1, 1, 1, 1 )
+52/region = Rect2( 0, 0, 64, 64 )
+52/tile_mode = 0
+52/occluder_offset = Vector2( 32, 32 )
+52/navigation_offset = Vector2( 32, 32 )
+52/shape_offset = Vector2( 0, 0 )
+52/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+52/shape = SubResource( 6 )
+52/shape_one_way = false
+52/shape_one_way_margin = 1.0
+52/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"one_way_margin": 1.0,
+"shape": SubResource( 6 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 0, 0 )
+} ]
+52/z_index = 0
+53/name = "rpgTile179"
+53/texture = ExtResource( 55 )
+53/tex_offset = Vector2( 0, 0 )
+53/modulate = Color( 1, 1, 1, 1 )
+53/region = Rect2( 0, 0, 64, 64 )
+53/tile_mode = 0
+53/occluder_offset = Vector2( 32, 32 )
+53/navigation_offset = Vector2( 32, 32 )
+53/shape_offset = Vector2( 0, 0 )
+53/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+53/shape = SubResource( 7 )
+53/shape_one_way = false
+53/shape_one_way_margin = 1.0
+53/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"one_way_margin": 1.0,
+"shape": SubResource( 7 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 0, 0 )
+} ]
+53/z_index = 0
+54/name = "rpgTile180"
+54/texture = ExtResource( 59 )
+54/tex_offset = Vector2( 0, 0 )
+54/modulate = Color( 1, 1, 1, 1 )
+54/region = Rect2( 0, 0, 64, 64 )
+54/tile_mode = 0
+54/occluder_offset = Vector2( 32, 32 )
+54/navigation_offset = Vector2( 32, 32 )
+54/shape_offset = Vector2( 0, 0 )
+54/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+54/shape = SubResource( 8 )
+54/shape_one_way = false
+54/shape_one_way_margin = 1.0
+54/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"one_way_margin": 1.0,
+"shape": SubResource( 8 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 0, 0 )
+} ]
+54/z_index = 0
+55/name = "rpgTile184"
+55/texture = ExtResource( 64 )
+55/tex_offset = Vector2( 0, 0 )
+55/modulate = Color( 1, 1, 1, 1 )
+55/region = Rect2( 0, 0, 64, 64 )
+55/tile_mode = 0
+55/occluder_offset = Vector2( 32, 32 )
+55/navigation_offset = Vector2( 32, 32 )
+55/shape_offset = Vector2( 0, 0 )
+55/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+55/shape = SubResource( 9 )
+55/shape_one_way = false
+55/shape_one_way_margin = 1.0
+55/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"one_way_margin": 1.0,
+"shape": SubResource( 9 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 0, 0 )
+} ]
+55/z_index = 0
+56/name = "rpgTile195"
+56/texture = ExtResource( 60 )
+56/tex_offset = Vector2( 0, 0 )
+56/modulate = Color( 1, 1, 1, 1 )
+56/region = Rect2( 0, 0, 64, 64 )
+56/tile_mode = 0
+56/occluder_offset = Vector2( 32, 32 )
+56/navigation_offset = Vector2( 32, 32 )
+56/shape_offset = Vector2( 0, 0 )
+56/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+56/shape = SubResource( 10 )
+56/shape_one_way = false
+56/shape_one_way_margin = 1.0
+56/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"one_way_margin": 1.0,
+"shape": SubResource( 10 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 0, 0 )
+} ]
+56/z_index = 0
+57/name = "rpgTile196"
+57/texture = ExtResource( 56 )
+57/tex_offset = Vector2( 0, 0 )
+57/modulate = Color( 1, 1, 1, 1 )
+57/region = Rect2( 0, 0, 64, 64 )
+57/tile_mode = 0
+57/occluder_offset = Vector2( 32, 32 )
+57/navigation_offset = Vector2( 32, 32 )
+57/shape_offset = Vector2( 0, 0 )
+57/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+57/shape = SubResource( 11 )
+57/shape_one_way = false
+57/shape_one_way_margin = 1.0
+57/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"one_way_margin": 1.0,
+"shape": SubResource( 11 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 0, 0 )
+} ]
+57/z_index = 0
+58/name = "rpgTile197"
+58/texture = ExtResource( 62 )
+58/tex_offset = Vector2( 0, 0 )
+58/modulate = Color( 1, 1, 1, 1 )
+58/region = Rect2( 0, 0, 64, 64 )
+58/tile_mode = 0
+58/occluder_offset = Vector2( 32, 32 )
+58/navigation_offset = Vector2( 32, 32 )
+58/shape_offset = Vector2( 0, 0 )
+58/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+58/shape = SubResource( 12 )
+58/shape_one_way = false
+58/shape_one_way_margin = 1.0
+58/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"one_way_margin": 1.0,
+"shape": SubResource( 12 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 0, 0 )
+} ]
+58/z_index = 0
+59/name = "rpgTile198"
+59/texture = ExtResource( 63 )
+59/tex_offset = Vector2( 0, 0 )
+59/modulate = Color( 1, 1, 1, 1 )
+59/region = Rect2( 0, 0, 64, 64 )
+59/tile_mode = 0
+59/occluder_offset = Vector2( 32, 32 )
+59/navigation_offset = Vector2( 32, 32 )
+59/shape_offset = Vector2( 0, 0 )
+59/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+59/shape = SubResource( 13 )
+59/shape_one_way = false
+59/shape_one_way_margin = 1.0
+59/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"one_way_margin": 1.0,
+"shape": SubResource( 13 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 0, 0 )
+} ]
+59/z_index = 0
+60/name = "rpgTile199"
+60/texture = ExtResource( 61 )
+60/tex_offset = Vector2( 0, 0 )
+60/modulate = Color( 1, 1, 1, 1 )
+60/region = Rect2( 0, 0, 64, 64 )
+60/tile_mode = 0
+60/occluder_offset = Vector2( 32, 32 )
+60/navigation_offset = Vector2( 32, 32 )
+60/shape_offset = Vector2( 0, 0 )
+60/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+60/shape = SubResource( 14 )
+60/shape_one_way = false
+60/shape_one_way_margin = 1.0
+60/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"one_way_margin": 1.0,
+"shape": SubResource( 14 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 0, 0 )
+} ]
+60/z_index = 0
+61/name = "rpgTile200"
+61/texture = ExtResource( 57 )
+61/tex_offset = Vector2( 0, 0 )
+61/modulate = Color( 1, 1, 1, 1 )
+61/region = Rect2( 0, 0, 64, 64 )
+61/tile_mode = 0
+61/occluder_offset = Vector2( 32, 32 )
+61/navigation_offset = Vector2( 32, 32 )
+61/shape_offset = Vector2( 0, 0 )
+61/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+61/shape = SubResource( 15 )
+61/shape_one_way = false
+61/shape_one_way_margin = 1.0
+61/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"one_way_margin": 1.0,
+"shape": SubResource( 15 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 0, 0 )
+} ]
+61/z_index = 0
+62/name = "rpgTile203"
+62/texture = ExtResource( 58 )
+62/tex_offset = Vector2( 0, 0 )
+62/modulate = Color( 1, 1, 1, 1 )
+62/region = Rect2( 0, 0, 64, 64 )
+62/tile_mode = 0
+62/occluder_offset = Vector2( 32, 32 )
+62/navigation_offset = Vector2( 32, 32 )
+62/shape_offset = Vector2( 0, 0 )
+62/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+62/shape = SubResource( 16 )
+62/shape_one_way = false
+62/shape_one_way_margin = 1.0
+62/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"one_way_margin": 1.0,
+"shape": SubResource( 16 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 0, 0 )
+} ]
+62/z_index = 0
+63/name = "rpgTile216"
+63/texture = ExtResource( 54 )
+63/tex_offset = Vector2( 0, 0 )
+63/modulate = Color( 1, 1, 1, 1 )
+63/region = Rect2( 0, 0, 64, 64 )
+63/tile_mode = 0
+63/occluder_offset = Vector2( 32, 32 )
+63/navigation_offset = Vector2( 32, 32 )
+63/shape_offset = Vector2( 0, 0 )
+63/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+63/shape = SubResource( 17 )
+63/shape_one_way = false
+63/shape_one_way_margin = 1.0
+63/shapes = [ {
+"autotile_coord": Vector2( 0, 0 ),
+"one_way": false,
+"one_way_margin": 1.0,
+"shape": SubResource( 17 ),
+"shape_transform": Transform2D( 1, 0, 0, 1, 0, 0 )
+} ]
+63/z_index = 0

@@ -1,0 +1,1 @@
+This project was made as part of the "Create a 2D RPG with Godot" course from Zenva (https://academy.zenva.com/).
