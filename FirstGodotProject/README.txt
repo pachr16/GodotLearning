@@ -1,0 +1,1 @@
+This project was made as part of the "Godot Game Development for Beginners" course from Zenva (https://academy.zenva.com/).
